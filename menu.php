@@ -23,6 +23,7 @@
             <a href="index.php"><i class="fas fa-home"></i> Accueil</a>
             <a href="menu.php"><i class="fas fa-beer"></i> Notre Carte</a>
             <a href="events.php"><i class="fas fa-calendar"></i> Événements</a>
+            <a href="blog.php"><i class="fas fa-book-open"></i> Blog</a>
             <a href="contact.php"><i class="fas fa-envelope"></i> Contact</a>
         </div>
     </div>
